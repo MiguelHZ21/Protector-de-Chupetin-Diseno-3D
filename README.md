@@ -30,7 +30,7 @@ Esto transforma un objeto cotidiano en un producto **lúdico e interactivo**.
 
 ## 🖼️ Referencias e inspiración
 El diseño del jueguete esta inspirado en este diseño comercial
-![Inspiración](Imagenes/Imagen de referencia.png)
+![Inspiración](Imagenes/Imagen-de-referencia.png)
 
 ---
 
