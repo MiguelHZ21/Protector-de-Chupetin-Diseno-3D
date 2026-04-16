@@ -30,7 +30,7 @@ Esto transforma un objeto cotidiano en un producto **lúdico e interactivo**.
 
 ## 🖼️ Referencias e inspiración
  
-![Diseño final](Imagenes/Imagen_de_referecia.png)
+![Diseño final](Imagenes/ImgReferencia.png)
 
 ---
 
